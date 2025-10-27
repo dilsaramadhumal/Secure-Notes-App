@@ -1,0 +1,1 @@
+A full-stack Secure Notes App built with React, Node.js, Express, and MongoDB, featuring JWT authentication, file uploads to AWS S3, and full deployment on AWS Elastic Beanstalk (backend) and S3 + CloudFront (frontend).
